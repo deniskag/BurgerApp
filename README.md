@@ -14,7 +14,7 @@ Each burger in the waiting area also has a Devour it! button. Once clicked, the 
 Every burger entered is stored in the database.
 
 
-https://burgerapp606.herokuapp.com/burgers
+Link to the App:  https://burgerapp606.herokuapp.com/burgers
 
 
 ![capture1](https://user-images.githubusercontent.com/32559085/40264930-22f1206c-5afc-11e8-831d-f0a3ff940261.PNG)
